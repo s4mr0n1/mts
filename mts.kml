@@ -32,6 +32,26 @@
 					<coordinates>106.65368590000003,-6.1275118,0.0</coordinates>
 				</Point>
 			</Placemark>
+			<Placemark>
+				<name>Stasiun Jakartakota</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>106.81455329999994,-6.137596599999998,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Rel Jkt Kota ke Gambir
+</name>
+				<styleUrl>#line-A61B4A-3-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>106.8145533,-6.1375966,0.0 106.8194675,-6.1363732,0.0 106.8207121,-6.1364585,0.0 106.8214417,-6.1370559,0.0 106.8221712,-6.13872,0.0 106.8232441,-6.1416642,0.0 106.8266773,-6.1475098,0.0 106.826849,-6.1490885,0.0 106.8274069,-6.1551474,0.0 106.8277502,-6.1614196,0.0 106.8301535,-6.1650463,0.0 106.83041100000001,-6.1665823,0.0 106.8304539,-6.168545,0.0 106.8297672,-6.1714463,0.0 106.8298531,-6.1731103,0.0 106.8306099,-6.1766446,0.0</coordinates>
+				</LineString>
+			</Placemark>
 		</Folder>
 		<Folder>
 			<name>Jawa</name>
@@ -117,6 +137,34 @@
 			<Pair>
 				<key>highlight</key>
 				<styleUrl>#icon-503-DB4436-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='line-A61B4A-3-nodesc-normal'>
+			<LineStyle>
+				<color>ff4A1BA6</color>
+				<width>3</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='line-A61B4A-3-nodesc-highlight'>
+			<LineStyle>
+				<color>ff4A1BA6</color>
+				<width>5.0</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='line-A61B4A-3-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-A61B4A-3-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-A61B4A-3-nodesc-highlight</styleUrl>
 			</Pair>
 		</StyleMap>
 	</Document>
