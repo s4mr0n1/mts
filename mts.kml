@@ -6,7 +6,7 @@
 		<Folder>
 			<name>Jakarta</name>
 			<Placemark>
-				<name>Gambir</name>
+				<name>Beijing Railway Station</name>
 				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
 				<ExtendedData>
 				</ExtendedData>
@@ -15,7 +15,7 @@
 				</Point>
 			</Placemark>
 			<Placemark>
-				<name>Stasiun Pasar Senen</name>
+				<name>Komsomolskaya</name>
 				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
 				<ExtendedData>
 				</ExtendedData>
@@ -24,7 +24,7 @@
 				</Point>
 			</Placemark>
 			<Placemark>
-				<name>Bandar Udara Internasional Soekarno–Hatta</name>
+				<name>Termini</name>
 				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
 				<ExtendedData>
 				</ExtendedData>
@@ -33,7 +33,7 @@
 				</Point>
 			</Placemark>
 			<Placemark>
-				<name>Stasiun Jakartakota</name>
+				<name>Railroad to Rome</name>
 				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
 				<ExtendedData>
 				</ExtendedData>
