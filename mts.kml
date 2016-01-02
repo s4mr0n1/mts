@@ -1,100 +1,54 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <kml xmlns='http://www.opengis.net/kml/2.2'>
 	<Document>
-		<name>MTS</name>
-		<description><![CDATA[]]></description>
-		<Folder>
-			<name>Jakarta</name>
-			<Placemark>
-				<name>Gambir</name>
-				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
-				<ExtendedData>
-				</ExtendedData>
-				<Point>
-					<coordinates>106.83060990000001,-6.176644599999999,0.0</coordinates>
-				</Point>
-			</Placemark>
-			<Placemark>
-				<name>Stasiun Pasar Senen</name>
-				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
-				<ExtendedData>
-				</ExtendedData>
-				<Point>
-					<coordinates>106.84483499999999,-6.175088,0.0</coordinates>
-				</Point>
-			</Placemark>
-			<Placemark>
-				<name>Bandar Udara Internasional Soekarno–Hatta</name>
-				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
-				<ExtendedData>
-				</ExtendedData>
-				<Point>
-					<coordinates>106.65368590000003,-6.1275118,0.0</coordinates>
-				</Point>
-			</Placemark>
-			<Placemark>
-				<name>Stasiun Jakartakota</name>
-				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
-				<ExtendedData>
-				</ExtendedData>
-				<Point>
-					<coordinates>106.81455329999994,-6.137596599999998,0.0</coordinates>
-				</Point>
-			</Placemark>
-			<Placemark>
-				<name>Rel Jkt Kota ke Gambir
+		<name>Jakarta</name>
+		<Placemark>
+			<name>Gambir</name>
+			<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>106.83060990000001,-6.176644599999999,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Stasiun Pasar Senen</name>
+			<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>106.84483499999999,-6.175088,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bandar Udara Internasional Soekarno–Hatta</name>
+			<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>106.65368590000003,-6.1275118,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Stasiun Jakartakota</name>
+			<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>106.81455329999994,-6.137596599999998,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Rel Jkt Kota ke Gambir
 </name>
-				<styleUrl>#line-A61B4A-3-nodesc</styleUrl>
-				<ExtendedData>
-				</ExtendedData>
-				<LineString>
-					<tessellate>1</tessellate>
-					<coordinates>106.8145533,-6.1375966,0.0 106.8194675,-6.1363732,0.0 106.8207121,-6.1364585,0.0 106.8214417,-6.1370559,0.0 106.8221712,-6.13872,0.0 106.8232441,-6.1416642,0.0 106.8266773,-6.1475098,0.0 106.826849,-6.1490885,0.0 106.8274069,-6.1551474,0.0 106.8277502,-6.1614196,0.0 106.8301535,-6.1650463,0.0 106.83041100000001,-6.1665823,0.0 106.8304539,-6.168545,0.0 106.8297672,-6.1714463,0.0 106.8298531,-6.1731103,0.0 106.8306099,-6.1766446,0.0</coordinates>
-				</LineString>
-			</Placemark>
-		</Folder>
-		<Folder>
-			<name>Jawa</name>
-			<Placemark>
-				<name>Pulau Jawa</name>
-				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
-				<ExtendedData>
-				</ExtendedData>
-				<Point>
-					<coordinates>110.71224649999999,-7.614529200000001,0.0</coordinates>
-				</Point>
-			</Placemark>
-		</Folder>
-		<Folder>
-			<name>Semarang</name>
-			<Placemark>
-				<name>Semarang Tawang</name>
-				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
-				<ExtendedData>
-				</ExtendedData>
-				<Point>
-					<coordinates>110.42796049999993,-6.9644391,0.0</coordinates>
-				</Point>
-			</Placemark>
-			<Placemark>
-				<name>Stasiun Besar Semarang Poncol</name>
-				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
-				<ExtendedData>
-				</ExtendedData>
-				<Point>
-					<coordinates>110.4147815,-6.973003,0.0</coordinates>
-				</Point>
-			</Placemark>
-			<Placemark>
-				<name>Bandar Udara Internasional Ahmad Yani</name>
-				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
-				<ExtendedData>
-				</ExtendedData>
-				<Point>
-					<coordinates>110.37835870000004,-6.978878600000001,0.0</coordinates>
-				</Point>
-			</Placemark>
-		</Folder>
+			<styleUrl>#line-A61B4A-3-nodesc</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>106.8145533,-6.1375966,0.0 106.8194675,-6.1363732,0.0 106.8207121,-6.1364585,0.0 106.8214417,-6.1370559,0.0 106.8221712,-6.13872,0.0 106.8232441,-6.1416642,0.0 106.8266773,-6.1475098,0.0 106.826849,-6.1490885,0.0 106.8274069,-6.1551474,0.0 106.8277502,-6.1614196,0.0 106.8301535,-6.1650463,0.0 106.83041100000001,-6.1665823,0.0 106.8304539,-6.168545,0.0 106.8297672,-6.1714463,0.0 106.8298531,-6.1731103,0.0 106.8306099,-6.1766446,0.0</coordinates>
+			</LineString>
+		</Placemark>
 		<Style id='icon-503-DB4436-nodesc-normal'>
 			<IconStyle>
 				<color>ff3644DB</color>
